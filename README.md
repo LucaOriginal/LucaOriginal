@@ -3,3 +3,5 @@
 
 # Stats
 [![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaOriginal&show_icons=True&theme=merko)](https://discord.gg/TM8D68tXCk)
+
+![BANNER-DC_16](https://cdn.discordapp.com/attachments/1187145657396506714/1190763681496187000/BANNER-DC_16.gif?ex=65ac3698&is=6599c198&hm=25a6560e25e7d2b5eda26b1ba40f63a8397b678263994c2e8b15d780e7bc4ce1)
