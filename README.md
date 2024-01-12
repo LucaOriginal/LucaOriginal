@@ -4,5 +4,5 @@
 # 🟢 Stats
 [![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaOriginal&show_icons=True&theme=merko)](https://discord.gg/TM8D68tXCk)
 
-# 🖼 Unser Server Banner !
-![BANNER-DC_16](BANNER-DC_16.gif)
+# 🖼 Unser Server Banner 
+[![BANNER-DC_16](BANNER-DC_16.gif)](https://discord.gg/TM8D68tXCk)
