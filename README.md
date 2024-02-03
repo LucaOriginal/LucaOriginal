@@ -7,5 +7,5 @@
 
 
 # 🖼 Unser Server Banner 
-[![BANNER-DC_16](BANNER-DC_16.gif)](https://discord.gg/Qb5t5dd9zu)
+[![BANNER-DC_16]()](https://discord.gg/Qb5t5dd9zu)
 
